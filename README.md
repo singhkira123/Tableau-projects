@@ -23,9 +23,17 @@ https://public.tableau.com/views/AirportDataAnalysis_16748302828780/Dashboard1?:
 
 # Acknowledgements
 
-* Awesome Readme Templates
-* Awesome README
-* How to write a Good readme
+* Project Title :- Airport Data Analysis
+* Technologies :- Business Intelligence
+* Domain :- Aviation
+* Project Difficulties level :- Advanced
+
+# Approaches:
+ The tool used in this project is tableau 
+ The data was downloaded via the link provided.
+ After uploading the data in tableau public, the columns and details about the data was explored.
+ After analysing the various routes and most busy and lenthy routes, the dashboard was created using hidden filters
+ 
 
 
 # Datasets
