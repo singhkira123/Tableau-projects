@@ -51,11 +51,6 @@ https://public.tableau.com/views/AirportDataAnalysis_16748302828780/Dashboard1?:
 
 ![Screenshot 2023-01-29 at 6 09 26 PM](https://user-images.githubusercontent.com/105345517/215763752-32edf697-85da-4d6b-93d4-cb20f5ac2844.png)
 
-
-# Deployment
-To deploy this project run
-
-npm run deploy 
   
 * https://drive.google.com/file/d/1QqpiorKEKzDdFHRH3X8j5nAV-EE4gxd7/view?usp=share_link
 
